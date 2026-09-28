@@ -77,3 +77,11 @@ Business Insights
 ### Revenue & Customer Analysis
 
 ![Revenue and Customer Analysis](revenue_customer_analysis.png)
+
+---
+
+## 🔗 Data Cleaning Notebook
+
+The data cleaning and preparation process was performed using Python and Pandas in Google Colab.
+
+[Open Data Cleaning Notebook](https://colab.research.google.com/drive/1aqvnjAClw24iJ8WZWhGKppFaAwSQmeXM?usp=sharing)
