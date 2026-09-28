@@ -65,3 +65,15 @@ Power BI Analysis
 Interactive Dashboard
         ↓
 Business Insights
+
+---
+
+## 📊 Power BI Dashboard
+
+### Booking Performance, Demand & Cancellation
+
+![Hotel Booking Dashboard](hotel_booking_dashboard.png)
+
+### Revenue & Customer Analysis
+
+![Revenue and Customer Analysis](revenue_customer_analysis.png)
